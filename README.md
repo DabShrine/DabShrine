@@ -1,4 +1,9 @@
-### Hi there 👋
+#### Turkey|Jordan
+
+* ACS Amman '24  
+|He/Him
+
+*[Spotify](https://open.spotify.com/user/jn92p1657wjy9f39oufxbuq2e?si=842dc6379ff74ae1)*
 
 <!--
 **DabShrine/DabShrine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
