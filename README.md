@@ -3,10 +3,10 @@ ___
 ACS Amman '24  
 |He/Him|
 ___
- * DKTT
- * Saint Punk
+> [DKTT](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl?si=jAXEqSdrTX-_vk0ff7DTBA)  
+> [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW?si=zopVeFhHRCqAF2iEDFEVrQ)
 ___
-*[Twitter](x.com/navyesportsorg)*
+
 
 <!--
 **DabShrine/DabShrine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
